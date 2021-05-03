@@ -1,0 +1,2 @@
+# NN-Solar-PV-Power
+The overall goal is to develop a machine-learning-based model of the performance of the solar panel based mainly on data at flux levels below 1300 W/m2, and validate it against data at higher flux levels.  The intent was to use the model to predict performance of the solar PV panel at higher flux levels that should shift the V-I performance curve to higher current and/or voltage levels.
